@@ -1,5 +1,3 @@
-Javascript pub/sub pattern implementation
-
 Javascript Kata Args
 ====================
 
